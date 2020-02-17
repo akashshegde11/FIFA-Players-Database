@@ -1,6 +1,6 @@
 Data extracted from SOFIFA.com with manual filtering.
 
-List of players who have/had Potential Rating 90 or above (Potential to be Special trait).
+List of players who have/had Potential Rating 90 or above (Potential to be Special trait) is made.
 
 Players with Overall Rating 90 or above have also been listed in the same sheet.
 
